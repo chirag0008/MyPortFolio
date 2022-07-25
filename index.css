@@ -1,0 +1,135 @@
+.container{
+		border:5px dashed mediumseagreen;height:620px;width:99.6%;
+        background-image:linear-gradient(to top,mediumseagreen,teal);
+	}
+    .container1{
+        height:50px;width:99%;padding:10px;font-size:30px;background-color:bisque;padding-top:17px;border-radius:30%;margin-top:10px
+    }
+    .container2{
+        float:right;padding-right:100px;
+    }
+    a{
+        color:chocolate; font-family: cursive;text-decoration:none;
+    }
+    a:hover{
+        color:orangered;
+        text-decoration:underline;
+       
+    }
+    
+       
+    }
+    
+    a:active{
+        font-family:'Courier New', Courier, monospace;
+       
+    }
+    #name{
+        font-family:sans-serif;padding-left:40px; color:darkolivegreen;font-weight:bolder;
+    }
+    #name:hover{
+        color:hotpink;
+
+
+
+    }
+    .nav{
+        font-family: monospace;
+        
+       
+    }
+    .nav1:hover{
+        font-size:35px;
+
+    }
+    .nav2:hover{
+        font-size:35px;
+
+    }
+    .nav3:hover{
+        font-size:35px;
+
+    }
+    .nav4:hover{
+        font-size:35px;
+
+    }
+    .hd1{
+        color:darkmagenta;padding-left: 50px;padding-top: 40px;font-family:georgia;font-size:37px;text-shadow: 0 0 3px peachpuff;
+    }
+    .hd2{
+        color:white;padding-left: 53px;font-family:monospace;font-size:30px;
+    }
+    .input1{
+        border-radius:30%;height:50px;width:100px;font-size:15px; background-color: lightseagreen;
+            cursor:pointer;font-family: cursive;font-weight:bolder;
+    }
+    .h3{
+        text-align: center;text-decoration:underline;color:lightcyan;font-family:bolder;font-family:sans-serif;padding-top:10px;
+        transition-property:all;transition-duration:3s;cursor:pointer;
+    }
+    .h3:hover{
+
+        font-size:60px;color:darkolivegreen;
+    }
+    #about{background: radial-gradient(yellowgreen,teal);height:1100px;margin-top: -2px; border:2px solid  magenta;width:100%;
+        text-align: center;
+    }
+    .container3{
+        
+
+    }
+    .imgg{
+        transition-property:all;transition-duration:3s;height:220px; width: 200px;
+    }
+    .imgg:hover{
+      /*  transform:rotate(360deg);*/
+        height:300px;width:300px;
+    }
+    .h4{
+        background:linear-gradient(to bottom,lightseagreen,teal);text-align: center;
+        text-decoration:underline;
+        text-decoration-color:orange;
+        height:65px;padding-top: 10px;text-decoration-style: dashed;color: lightgoldenrodyellow;font-weight: bolder;font-family:cursive;
+
+    }
+    .h4:hover{
+        text-shadow:1px 1px 1px lightgoldenrodyellow;
+        cursor:pointer;
+    }
+    .container4{
+        border:4px solid grey;height:600px;width:100%;
+    }
+    .container5{
+        float:left;
+        border:2px solid teal;
+        height:480px;width:50%;
+    }
+    .container6{
+        float:right;
+        border:2px solid orange;
+    }
+    .btn{
+        text-align: center;background:orangered;color:white;height:40px;border: 2px solid orange; cursor: pointer;border-radius:10px;
+    }
+    .h5{
+        text-align: center; text-shadow: 0 0 3px #FF0000;
+
+    }
+    .ppp{
+        font-size:23px;
+        font-weight: bolder;
+        font-family: cursive;
+        color:white;
+    }
+    .formm{
+        padding-left:180px;;
+    }
+    .container7{
+        margin-top:-21px;width:100.2%;border-bottom:10px solid red;height:580px;border-radius:10px;border-left:1px solid blue;
+        border-right:1px solid green;
+    }
+    .container8{
+       background:linear-gradient(to bottom,lightseagreen,yellow);height: 520px; width:100%;margin-top: -20px;
+    border:2px solid brown;
+    }
